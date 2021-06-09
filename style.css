@@ -216,10 +216,7 @@ img {
     line-height: 36px;
 }
 
-.detail-cassette {
-    width: 31%;
-    margin-top: 40px;
-}
+
 .detail-cassette-title {
     padding: 4px;
     border-radius: 15px;
@@ -712,3 +709,7 @@ a.header-nav-item .hover-opacity:hover {
 
 
 
+.detail-cassette {
+    width: 31%;
+    margin-top: 40px;
+}
